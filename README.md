@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enriquebravo22
-- 👀 I’m interested in Machine Learning, Siganl Processing and Analysis, and healthcare software solutions.
+- 👀 I’m interested in Machine Learning, Signal Processing and Analysis, and healthcare software solutions.
 - 🌱 I’m currently learning about Deep Learning in Medical Images and Full-stack web development
 - 💞️ I’m looking to collaborate on healthcare hi-tech proyects
 - 📫 How to reach me: Chech my profile 😉
